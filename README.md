@@ -1,1 +1,2 @@
 # Mech_472_Mechatronics_and_Automation
+This course focuses on design and analysis of mechatronic and automation systems. The following topics are covered: selection and integration of actuators, sensors, hardware, and software; computer vision; programming and software design for mechatronic systems; modelling and simulation; design of logic control systems; finite state machine methods; feedback control and trajectory generation; safety logic systems; case studies including automation systems, mobile robots, and unmanned vehicle systems.
